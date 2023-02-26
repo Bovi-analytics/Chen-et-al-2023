@@ -56,6 +56,9 @@ Prediction of persistency at day 305 in lactation at the moment of the inseminat
 <img src=https://github.com/ChenYongyan-uu/Chen-et-al-2023/blob/747903a05fde022e12413bbf9a707c31eb69c877/Table%20A5%20other%20methods%20performance%20for%20decay%20model.png width=80% height=80%>
 
 
+<img src=https://github.com/Bovi-analytics/Chen-et-al-2023/blob/2a5b2170902570d96fe4049c0d2a0f47ca8231a2/Table%20A6%20decay%20model%20included%20previous%20LCC.png width=80% height=80%>
+
+<img src=https://github.com/Bovi-analytics/Chen-et-al-2023/blob/2a5b2170902570d96fe4049c0d2a0f47ca8231a2/Table%20A7%20decay%20models%20for%20two%20parity%20groups.png width=80% height=80%>
 
 
 ## Supplementary figures
